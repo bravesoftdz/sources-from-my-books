@@ -1,0 +1,13 @@
+Sting Encryption/Decryption Component
+Version 1.01 Release date OCT 20 1996
+
+Mr. Franco Paolo Brescianini's Sample provide
+String Encryption/Decryption Algorithm
+
+Freeware Non-Visual Component for Delphi 2.0x
+Written By Tom Lee , From Taiwan - Republic Of China
+Tomm.bbs@csie.nctu.edu.tw
+http://www.aaa.hinet.net/delphi
+(Chinese BIG-5 Home Page) 
+
+

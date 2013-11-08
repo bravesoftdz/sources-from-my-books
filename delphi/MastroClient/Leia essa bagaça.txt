@@ -1,0 +1,11 @@
+Na Procedure "ServerSocketClientRead", vai ter as linhas:
+
+Memo2.Lines.Add(ServerSocket.Socket.ReceiveText);
+Conte:=Memo2.Lines[Memo2.Lines.Count - 1]; {Conte é uma variavel String}
+
+Eu NÃO consigo assimilar a "ServerSocket.Socket.ReceiveText" a conte.
+Essa porra dá erro, tente matar essa.
+
+Mas tá funcionando, na gambiarra, mais tá.
+
+
